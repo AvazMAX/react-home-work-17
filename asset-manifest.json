@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-home-work-17/static/css/main.2b83ee0a.css",
+    "main.js": "/react-home-work-17/static/js/main.64eb22a4.js",
+    "static/media/Снимок экрана 2023-05-16 163713.png": "/react-home-work-17/static/media/Снимок экрана 2023-05-16 163713.3243f894c27f0ca94a69.png",
+    "static/media/Снимок экрана 2023-05-16 171938.png": "/react-home-work-17/static/media/Снимок экрана 2023-05-16 171938.a5e278bbbfb6f777dba2.png",
+    "index.html": "/react-home-work-17/index.html",
+    "main.2b83ee0a.css.map": "/react-home-work-17/static/css/main.2b83ee0a.css.map",
+    "main.64eb22a4.js.map": "/react-home-work-17/static/js/main.64eb22a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b83ee0a.css",
+    "static/js/main.64eb22a4.js"
+  ]
+}
